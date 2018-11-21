@@ -1,0 +1,21 @@
+body{
+    background-color: #ccc;
+    color: #333;
+    margin: 1em 10%;
+}
+ul{
+    padding: 0;
+}
+li{
+    list-style: none;
+    float: left;
+    padding: 1em;
+}
+a{
+    text-decoration: none;
+    color: #c60;
+}
+img{
+    display: block;
+    clear: both;
+}
